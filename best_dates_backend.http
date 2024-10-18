@@ -1,0 +1,6 @@
+@best_dates_backend_HostAddress = http://localhost:5189
+
+GET {{best_dates_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
